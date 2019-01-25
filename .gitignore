@@ -19,3 +19,7 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+_dotCover*
